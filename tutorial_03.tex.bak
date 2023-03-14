@@ -1,0 +1,8 @@
+\documentclass[11pt]{article}
+\usepackage{amsfonts, am}
+
+\begin{document}
+
+The distributive property states that $a(b+c)=ab+ac$, for all $a, b, c \in \mathbb{R}$
+
+\end{document}
